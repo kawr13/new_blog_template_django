@@ -3,3 +3,11 @@ INFO 2023-11-12 00:41:38,445 autoreload 8768 3204 Watching for file changes with
 INFO 2023-11-12 00:41:40,031 basehttp 8768 11020 "GET / HTTP/1.1" 200 123
 WARNING 2023-11-12 00:41:40,166 log 8768 11020 Not Found: /favicon.ico
 WARNING 2023-11-12 00:41:40,167 basehttp 8768 11020 "GET /favicon.ico HTTP/1.1" 404 2532
+WARNING 2023-11-12 00:47:11,315 log 8768 1980 Not Found: /favicon.ico
+WARNING 2023-11-12 00:47:11,316 basehttp 8768 1980 "GET /favicon.ico HTTP/1.1" 404 2532
+INFO 2023-11-12 01:02:48,485 autoreload 8768 3204 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
+INFO 2023-11-12 01:02:48,869 autoreload 12436 4616 Watching for file changes with StatReloader
+INFO 2023-11-12 01:04:55,429 autoreload 12436 4616 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
+INFO 2023-11-12 01:04:55,842 autoreload 8424 2460 Watching for file changes with StatReloader
+INFO 2023-11-12 01:14:07,270 autoreload 8424 2460 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
+INFO 2023-11-12 01:14:07,633 autoreload 3204 3836 Watching for file changes with StatReloader
