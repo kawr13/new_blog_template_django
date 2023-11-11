@@ -1,0 +1,5 @@
+INFO 2023-11-12 00:38:21,452 autoreload 5288 13152 Watching for file changes with StatReloader
+INFO 2023-11-12 00:41:38,445 autoreload 8768 3204 Watching for file changes with StatReloader
+INFO 2023-11-12 00:41:40,031 basehttp 8768 11020 "GET / HTTP/1.1" 200 123
+WARNING 2023-11-12 00:41:40,166 log 8768 11020 Not Found: /favicon.ico
+WARNING 2023-11-12 00:41:40,167 basehttp 8768 11020 "GET /favicon.ico HTTP/1.1" 404 2532
