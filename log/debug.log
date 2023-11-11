@@ -73,3 +73,58 @@ INFO 2023-11-12 02:46:02,553 basehttp 3600 11964 "GET /admin/auth/user/?_to_fiel
 INFO 2023-11-12 02:46:31,192 basehttp 3600 11964 "POST /admin/postapp/post/add/ HTTP/1.1" 302 0
 INFO 2023-11-12 02:46:31,215 basehttp 3600 11964 "GET /admin/postapp/post/ HTTP/1.1" 200 12957
 INFO 2023-11-12 02:46:31,240 basehttp 3600 11964 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-12 03:16:23,879 autoreload 3600 12120 F:\projects_1\learningdjango\postapp\admin.py changed, reloading.
+INFO 2023-11-12 03:16:24,622 autoreload 11316 12828 Watching for file changes with StatReloader
+INFO 2023-11-12 03:17:49,026 autoreload 11316 12828 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
+INFO 2023-11-12 03:17:49,515 autoreload 10064 2216 Watching for file changes with StatReloader
+INFO 2023-11-12 03:30:00,512 autoreload 10064 2216 F:\projects_1\learningdjango\postapp\views.py changed, reloading.
+INFO 2023-11-12 03:30:00,962 autoreload 16164 7024 Watching for file changes with StatReloader
+INFO 2023-11-12 03:58:36,960 autoreload 14300 9816 Watching for file changes with StatReloader
+INFO 2023-11-12 03:58:40,620 basehttp 14300 14032 "GET / HTTP/1.1" 200 28653
+INFO 2023-11-12 03:58:40,691 basehttp 14300 14032 "GET /static/assets/web/assets/mobirise-icons2/mobirise2.css HTTP/1.1" 200 8709
+INFO 2023-11-12 03:58:40,694 basehttp 14300 14120 "GET /static/assets/bootstrap/css/bootstrap-grid.min.css HTTP/1.1" 200 51457
+INFO 2023-11-12 03:58:40,696 basehttp 14300 3724 "GET /static/assets/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 155590
+INFO 2023-11-12 03:58:40,697 basehttp 14300 14032 "GET /static/assets/bootstrap/css/bootstrap-reboot.min.css HTTP/1.1" 200 4623
+INFO 2023-11-12 03:58:40,700 basehttp 14300 3724 "GET /static/assets/dropdown/css/style.css HTTP/1.1" 200 7945
+INFO 2023-11-12 03:58:40,700 basehttp 14300 14032 "GET /static/assets/animatecss/animate.css HTTP/1.1" 200 99437
+INFO 2023-11-12 03:58:40,704 basehttp 14300 3724 "GET /static/assets/socicon/css/styles.css HTTP/1.1" 200 16463
+INFO 2023-11-12 03:58:40,706 basehttp 14300 3724 "GET /static/assets/theme/css/style.css HTTP/1.1" 200 14855
+INFO 2023-11-12 03:58:40,712 basehttp 14300 3724 "GET /static/assets/mobirise/css/mbr-additional.css HTTP/1.1" 200 36412
+INFO 2023-11-12 03:58:40,723 basehttp 14300 14032 "GET /static/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 78704
+WARNING 2023-11-12 03:58:40,731 log 14300 14120 Not Found: /assets/images/gallery02.jpg
+WARNING 2023-11-12 03:58:40,732 log 14300 3724 Not Found: /assets/images/gallery01.jpg
+WARNING 2023-11-12 03:58:40,733 basehttp 14300 14120 "GET /assets/images/gallery02.jpg HTTP/1.1" 404 2580
+WARNING 2023-11-12 03:58:40,733 basehttp 14300 3724 "GET /assets/images/gallery01.jpg HTTP/1.1" 404 2580
+INFO 2023-11-12 03:58:40,740 basehttp 14300 14032 "GET /static/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 200 7548
+WARNING 2023-11-12 03:58:40,746 log 14300 3724 Not Found: /assets/images/gallery03.jpg
+WARNING 2023-11-12 03:58:40,747 log 14300 14120 Not Found: /assets/images/gallery04.jpg
+WARNING 2023-11-12 03:58:40,748 basehttp 14300 3724 "GET /assets/images/gallery03.jpg HTTP/1.1" 404 2580
+WARNING 2023-11-12 03:58:40,748 basehttp 14300 14120 "GET /assets/images/gallery04.jpg HTTP/1.1" 404 2580
+INFO 2023-11-12 03:58:40,756 basehttp 14300 14032 "GET /static/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 200 3595
+INFO 2023-11-12 03:58:40,759 basehttp 14300 3724 "GET /static/assets/ytplayer/index.js HTTP/1.1" 200 27644
+WARNING 2023-11-12 03:58:40,761 log 14300 14120 Not Found: /assets/images/gallery10.jpg
+WARNING 2023-11-12 03:58:40,762 basehttp 14300 14120 "GET /assets/images/gallery10.jpg HTTP/1.1" 404 2580
+INFO 2023-11-12 03:58:40,762 basehttp 14300 3724 "GET /static/assets/embla/embla.min.js HTTP/1.1" 200 15444
+INFO 2023-11-12 03:58:40,766 basehttp 14300 3724 "GET /static/assets/embla/script.js HTTP/1.1" 200 8038
+INFO 2023-11-12 03:58:40,768 basehttp 14300 14120 "GET /static/assets/theme/js/script.js HTTP/1.1" 200 37157
+INFO 2023-11-12 03:58:40,819 basehttp 14300 14120 "GET /static/assets/web/assets/mobirise-icons2/mobirise2.ttf?f2bix4 HTTP/1.1" 200 25280
+INFO 2023-11-12 03:58:40,828 basehttp 14300 14120 "GET /static/assets/socicon/fonts/socicon.woff2 HTTP/1.1" 200 64512
+WARNING 2023-11-12 03:58:40,837 log 14300 14120 Not Found: /assets/images/gallery05.jpg
+WARNING 2023-11-12 03:58:40,837 basehttp 14300 14120 "GET /assets/images/gallery05.jpg HTTP/1.1" 404 2580
+WARNING 2023-11-12 03:58:40,846 log 14300 14120 Not Found: /assets/images/gallery06.jpg
+WARNING 2023-11-12 03:58:40,846 basehttp 14300 14120 "GET /assets/images/gallery06.jpg HTTP/1.1" 404 2580
+WARNING 2023-11-12 03:58:40,854 log 14300 14120 Not Found: /assets/images/gallery07.jpg
+WARNING 2023-11-12 03:58:40,855 basehttp 14300 14120 "GET /assets/images/gallery07.jpg HTTP/1.1" 404 2580
+WARNING 2023-11-12 03:58:40,865 log 14300 14120 Not Found: /assets/images/team1.jpg
+WARNING 2023-11-12 03:58:40,865 basehttp 14300 14120 "GET /assets/images/team1.jpg HTTP/1.1" 404 2568
+WARNING 2023-11-12 03:58:40,876 log 14300 14120 Not Found: /assets/images/team2.jpg
+WARNING 2023-11-12 03:58:40,876 basehttp 14300 14120 "GET /assets/images/team2.jpg HTTP/1.1" 404 2568
+WARNING 2023-11-12 03:58:40,885 log 14300 14120 Not Found: /assets/images/team3.jpg
+WARNING 2023-11-12 03:58:40,886 basehttp 14300 14120 "GET /assets/images/team3.jpg HTTP/1.1" 404 2568
+WARNING 2023-11-12 03:58:40,901 log 14300 3724 Not Found: /assets/images/8.jpg
+WARNING 2023-11-12 03:58:40,902 log 14300 14120 Not Found: /assets/images/team4.jpg
+WARNING 2023-11-12 03:58:40,903 basehttp 14300 3724 "GET /assets/images/8.jpg HTTP/1.1" 404 2556
+WARNING 2023-11-12 03:58:40,903 basehttp 14300 14120 "GET /assets/images/team4.jpg HTTP/1.1" 404 2568
+INFO 2023-11-12 03:58:40,946 basehttp 14300 14120 "GET /static/assets/images/logo.png HTTP/1.1" 200 3297
+INFO 2023-11-12 04:00:29,849 autoreload 14300 9816 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
+INFO 2023-11-12 04:00:30,252 autoreload 16256 2748 Watching for file changes with StatReloader

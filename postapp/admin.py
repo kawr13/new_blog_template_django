@@ -20,5 +20,5 @@ class PostAdmin(admin.ModelAdmin):
     prepopulated_fields = {'slug': ('title',)}
     raw_id_fields = ('author',)
     date_hierarchy = 'publish'
-    ordering = ('-publish',)
+    ordering = ('-publish', 'status')
     inlines = [CommentTabularInline, ImagesPostTabularInline]
