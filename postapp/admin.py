@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Post, Comment
+from .models import Post, Comment, ImagesPost
 # Register your models here.
 
 
@@ -7,6 +7,10 @@ class CommentTabularInline(admin.TabularInline):
     model = Comment
     extra = 0
 
+
+class ImagesPostTabularInline(admin.TabularInline):
+    model = ImagesPost
+    extra = 0
 
 @admin.register(Post)
 class PostAdmin(admin.ModelAdmin):
@@ -17,4 +21,4 @@ class PostAdmin(admin.ModelAdmin):
     raw_id_fields = ('author',)
     date_hierarchy = 'publish'
     ordering = ('-publish',)
-    inlines = [CommentTabularInline]
+    inlines = [CommentTabularInline, ImagesPostTabularInline]

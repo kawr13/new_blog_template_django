@@ -59,3 +59,17 @@ INFO 2023-11-12 02:18:10,893 basehttp 10508 3048 "GET /static/admin/img/icon-cal
 INFO 2023-11-12 02:18:29,062 basehttp 10508 3048 "GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 560
 INFO 2023-11-12 02:28:46,192 autoreload 10508 14216 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
 INFO 2023-11-12 02:28:46,664 autoreload 11696 10316 Watching for file changes with StatReloader
+INFO 2023-11-12 02:30:35,328 autoreload 11696 10316 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
+INFO 2023-11-12 02:30:35,708 autoreload 15908 15788 Watching for file changes with StatReloader
+INFO 2023-11-12 02:31:18,431 autoreload 15192 14360 Watching for file changes with StatReloader
+INFO 2023-11-12 02:31:20,583 basehttp 15192 1812 "GET /admin/postapp/post/add/ HTTP/1.1" 200 18387
+INFO 2023-11-12 02:31:20,602 basehttp 15192 1812 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-12 02:45:58,239 autoreload 3600 12120 Watching for file changes with StatReloader
+INFO 2023-11-12 02:45:59,090 basehttp 3600 11964 "GET /admin/postapp/post/add/ HTTP/1.1" 200 18387
+INFO 2023-11-12 02:45:59,129 basehttp 3600 11964 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-12 02:46:01,278 basehttp 3600 11964 "GET /admin/postapp/post/add/ HTTP/1.1" 200 18387
+INFO 2023-11-12 02:46:01,301 basehttp 3600 11964 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-12 02:46:02,553 basehttp 3600 11964 "GET /admin/auth/user/?_to_field=id&_popup=1 HTTP/1.1" 200 7492
+INFO 2023-11-12 02:46:31,192 basehttp 3600 11964 "POST /admin/postapp/post/add/ HTTP/1.1" 302 0
+INFO 2023-11-12 02:46:31,215 basehttp 3600 11964 "GET /admin/postapp/post/ HTTP/1.1" 200 12957
+INFO 2023-11-12 02:46:31,240 basehttp 3600 11964 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
