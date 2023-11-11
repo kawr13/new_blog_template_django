@@ -57,3 +57,5 @@ INFO 2023-11-12 02:18:10,856 basehttp 10508 3048 "GET /static/admin/js/change_fo
 INFO 2023-11-12 02:18:10,893 basehttp 10508 11676 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
 INFO 2023-11-12 02:18:10,893 basehttp 10508 3048 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
 INFO 2023-11-12 02:18:29,062 basehttp 10508 3048 "GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 560
+INFO 2023-11-12 02:28:46,192 autoreload 10508 14216 F:\projects_1\learningdjango\postapp\models.py changed, reloading.
+INFO 2023-11-12 02:28:46,664 autoreload 11696 10316 Watching for file changes with StatReloader

@@ -30,6 +30,11 @@ class Post(models.Model):
         return self.title
 
 
+class ImagesPost(models.Model):
+    post = models.ForeignKey(Post, on_delete=models.CASCADE)
+    image = models.ImageField(upload_to='images')
+
+
 class Comment(models.Model):
     post = models.ForeignKey(Post, on_delete=models.CASCADE)
     name = models.CharField(max_length=255)
