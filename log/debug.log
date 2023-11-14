@@ -3567,3 +3567,197 @@ WARNING 2023-11-14 12:56:50,429 basehttp 932 2664 "GET /post/2/assets/ytplayer/i
 INFO 2023-11-14 12:56:50,454 basehttp 932 12468 "GET /static/assets1/web/assets/mobirise-icons2/mobirise2.ttf?f2bix4 HTTP/1.1" 304 0
 INFO 2023-11-14 13:08:34,672 autoreload 3328 1496 Watching for file changes with StatReloader
 INFO 2023-11-14 13:09:04,321 autoreload 3328 1496 F:\projects_1\learningdjango\postapp\views.py changed, reloading.
+INFO 2023-11-14 13:09:04,725 autoreload 7244 6060 Watching for file changes with StatReloader
+INFO 2023-11-14 13:10:45,214 autoreload 8568 448 Watching for file changes with StatReloader
+INFO 2023-11-14 13:11:17,253 autoreload 1120 9428 Watching for file changes with StatReloader
+INFO 2023-11-14 13:11:18,985 basehttp 1120 3328 "GET /post/2/ HTTP/1.1" 200 10859
+WARNING 2023-11-14 13:11:19,033 log 1120 9740 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:11:19,034 basehttp 1120 9740 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:11:19,035 log 1120 3328 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:11:19,036 log 1120 8928 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:11:19,037 log 1120 2476 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:11:19,037 log 1120 12348 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:11:19,038 basehttp 1120 8928 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:11:19,038 basehttp 1120 3328 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:11:19,039 basehttp 1120 2476 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+WARNING 2023-11-14 13:11:19,039 basehttp 1120 12348 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+INFO 2023-11-14 13:11:19,098 basehttp 1120 12348 "GET /static/assets/images/logo.png HTTP/1.1" 304 0
+INFO 2023-11-14 13:12:52,111 autoreload 7660 12320 Watching for file changes with StatReloader
+INFO 2023-11-14 13:12:53,814 basehttp 7660 9392 "GET /post/2/ HTTP/1.1" 200 11018
+WARNING 2023-11-14 13:12:53,884 log 7660 5956 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:12:53,885 log 7660 12464 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:12:53,886 basehttp 7660 5956 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:12:53,886 basehttp 7660 12464 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+WARNING 2023-11-14 13:12:53,888 log 7660 2324 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:12:53,889 log 7660 9392 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:12:53,890 log 7660 10256 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:12:53,891 basehttp 7660 2324 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:12:53,891 basehttp 7660 9392 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:12:53,892 basehttp 7660 10256 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+INFO 2023-11-14 13:14:10,988 autoreload 12092 436 Watching for file changes with StatReloader
+INFO 2023-11-14 13:14:12,497 basehttp 12092 3216 "GET /post/2/ HTTP/1.1" 200 11036
+WARNING 2023-11-14 13:14:12,546 log 12092 3216 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:14:12,547 basehttp 12092 3216 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:14:12,549 log 12092 4952 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:14:12,550 log 12092 3232 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:14:12,551 log 12092 3092 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:14:12,552 basehttp 12092 4952 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+WARNING 2023-11-14 13:14:12,553 log 12092 11260 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:14:12,553 basehttp 12092 3232 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:14:12,554 basehttp 12092 3092 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:14:12,554 basehttp 12092 11260 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+INFO 2023-11-14 13:18:59,232 autoreload 12092 436 F:\projects_1\learningdjango\postapp\views.py changed, reloading.
+INFO 2023-11-14 13:18:59,730 autoreload 9592 5844 Watching for file changes with StatReloader
+INFO 2023-11-14 13:25:26,553 autoreload 3216 7520 Watching for file changes with StatReloader
+INFO 2023-11-14 13:25:28,333 basehttp 3216 9372 "GET /post/2/ HTTP/1.1" 200 11036
+WARNING 2023-11-14 13:25:28,372 log 3216 9372 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:25:28,374 basehttp 3216 9372 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:25:28,381 log 3216 6216 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:25:28,383 log 3216 4020 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:25:28,383 log 3216 9140 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:25:28,384 log 3216 11392 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:25:28,384 basehttp 3216 6216 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+INFO 2023-11-14 13:25:28,385 basehttp 3216 6216 - Broken pipe from ('127.0.0.1', 51379)
+WARNING 2023-11-14 13:25:28,385 basehttp 3216 4020 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:25:28,385 basehttp 3216 9140 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:25:28,386 basehttp 3216 11392 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+INFO 2023-11-14 13:27:38,546 autoreload 7496 3548 Watching for file changes with StatReloader
+INFO 2023-11-14 13:27:40,092 basehttp 7496 7212 "GET /post/2/ HTTP/1.1" 200 11239
+WARNING 2023-11-14 13:27:40,154 log 7496 12316 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:27:40,156 log 7496 8884 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:27:40,157 log 7496 7212 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:27:40,158 log 7496 4556 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:27:40,159 basehttp 7496 8884 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:27:40,160 log 7496 8968 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:27:40,160 basehttp 7496 12316 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+WARNING 2023-11-14 13:27:40,160 basehttp 7496 7212 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:27:40,161 basehttp 7496 4556 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:27:40,161 basehttp 7496 8968 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+INFO 2023-11-14 13:27:50,751 basehttp 7496 8968 "POST /post/2/ HTTP/1.1" 200 11527
+WARNING 2023-11-14 13:27:50,786 log 7496 8968 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:27:50,788 basehttp 7496 8968 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:27:50,789 log 7496 8884 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:27:50,791 log 7496 12316 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:27:50,791 basehttp 7496 8884 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:27:50,792 log 7496 7212 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:27:50,793 log 7496 4556 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:27:50,794 basehttp 7496 7212 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+WARNING 2023-11-14 13:27:50,794 basehttp 7496 12316 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+WARNING 2023-11-14 13:27:50,794 basehttp 7496 4556 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+INFO 2023-11-14 13:33:18,401 autoreload 7080 11016 Watching for file changes with StatReloader
+INFO 2023-11-14 13:33:22,758 basehttp 7080 620 "POST /post/2/ HTTP/1.1" 200 11852
+WARNING 2023-11-14 13:33:22,809 log 7080 5100 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:33:22,809 log 7080 8788 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:33:22,810 log 7080 2192 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:33:22,811 log 7080 620 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:33:22,812 log 7080 10996 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:33:22,813 basehttp 7080 5100 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:33:22,813 basehttp 7080 8788 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:33:22,813 basehttp 7080 2192 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+WARNING 2023-11-14 13:33:22,813 basehttp 7080 620 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:33:22,814 basehttp 7080 10996 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+WARNING 2023-11-14 13:33:25,799 log 7080 10996 Not Found: /post/2/admin/
+WARNING 2023-11-14 13:33:25,800 basehttp 7080 10996 "GET /post/2/admin/ HTTP/1.1" 404 2723
+WARNING 2023-11-14 13:33:25,843 log 7080 10996 Not Found: /favicon.ico
+WARNING 2023-11-14 13:33:25,843 basehttp 7080 10996 "GET /favicon.ico HTTP/1.1" 404 2717
+INFO 2023-11-14 13:33:32,085 basehttp 7080 10996 "POST /post/2/ HTTP/1.1" 200 12140
+WARNING 2023-11-14 13:33:32,121 log 7080 10996 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:33:32,123 basehttp 7080 10996 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:33:32,124 log 7080 5100 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:33:32,125 log 7080 620 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:33:32,126 log 7080 2192 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:33:32,127 log 7080 8788 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:33:32,127 basehttp 7080 5100 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+WARNING 2023-11-14 13:33:32,128 basehttp 7080 620 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+WARNING 2023-11-14 13:33:32,128 basehttp 7080 2192 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+WARNING 2023-11-14 13:33:32,129 basehttp 7080 8788 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:33:33,506 log 7080 8788 Not Found: /post/2/admin/
+WARNING 2023-11-14 13:33:33,507 basehttp 7080 8788 "GET /post/2/admin/ HTTP/1.1" 404 2723
+INFO 2023-11-14 13:34:43,698 autoreload 10008 8420 Watching for file changes with StatReloader
+WARNING 2023-11-14 13:34:45,339 log 10008 7296 Not Found: /post/2/admin/
+WARNING 2023-11-14 13:34:45,340 basehttp 10008 7296 "GET /post/2/admin/ HTTP/1.1" 404 2723
+INFO 2023-11-14 13:35:51,212 autoreload 9716 2580 Watching for file changes with StatReloader
+WARNING 2023-11-14 13:35:52,805 log 9716 4900 Not Found: /post/2/admin/
+WARNING 2023-11-14 13:35:52,806 basehttp 9716 4900 "GET /post/2/admin/ HTTP/1.1" 404 2723
+WARNING 2023-11-14 13:35:56,120 log 9716 4900 Not Found: /post/2/admin/
+WARNING 2023-11-14 13:35:56,120 basehttp 9716 4900 "GET /post/2/admin/ HTTP/1.1" 404 2723
+INFO 2023-11-14 13:40:35,587 autoreload 4560 8788 Watching for file changes with StatReloader
+INFO 2023-11-14 13:40:41,071 basehttp 4560 11016 "POST /post/2/ HTTP/1.1" 200 12439
+WARNING 2023-11-14 13:40:41,121 log 4560 13144 Not Found: /post/2/assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:40:41,122 log 4560 13044 Not Found: /post/2/assets/ytplayer/index.js
+WARNING 2023-11-14 13:40:41,122 basehttp 4560 13144 "GET /post/2/assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2813
+WARNING 2023-11-14 13:40:41,124 log 4560 3536 Not Found: /post/2/assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:40:41,126 log 4560 11016 Not Found: /post/2/assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:40:41,126 basehttp 4560 13044 "GET /post/2/assets/ytplayer/index.js HTTP/1.1" 404 2777
+WARNING 2023-11-14 13:40:41,127 log 4560 11312 Not Found: /post/2/assets/theme/js/script.js
+WARNING 2023-11-14 13:40:41,127 basehttp 4560 3536 "GET /post/2/assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2816
+WARNING 2023-11-14 13:40:41,128 basehttp 4560 11016 "GET /post/2/assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2834
+WARNING 2023-11-14 13:40:41,128 basehttp 4560 11312 "GET /post/2/assets/theme/js/script.js HTTP/1.1" 404 2780
+INFO 2023-11-14 13:40:42,433 basehttp 4560 11312 "GET /admin/ HTTP/1.1" 200 9992
+INFO 2023-11-14 13:40:42,454 basehttp 4560 11312 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,459 basehttp 4560 11016 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,459 basehttp 4560 13044 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,459 basehttp 4560 11312 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,459 basehttp 4560 3536 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,461 basehttp 4560 12092 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,461 basehttp 4560 13144 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,469 basehttp 4560 12092 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:42,469 basehttp 4560 13144 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2023-11-14 13:40:45,401 basehttp 4560 13144 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-11-14 13:40:46,919 basehttp 4560 13144 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-14 13:40:46,978 basehttp 4560 13144 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-11-14 13:40:47,033 basehttp 4560 13144 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-11-14 13:40:49,142 basehttp 4560 13144 "GET /admin/postapp/post/add/ HTTP/1.1" 302 0
+INFO 2023-11-14 13:40:49,150 basehttp 4560 13144 "GET /admin/login/?next=/admin/postapp/post/add/ HTTP/1.1" 200 4301
+INFO 2023-11-14 13:40:49,217 basehttp 4560 13144 "GET /admin/login/?next=/admin/postapp/post/add/ HTTP/1.1" 200 4301
+INFO 2023-11-14 13:40:52,365 basehttp 4560 13144 "GET / HTTP/1.1" 200 10255
+WARNING 2023-11-14 13:40:52,416 log 4560 3536 Not Found: /assets/dropdown/js/navbar-dropdown.js
+WARNING 2023-11-14 13:40:52,417 log 4560 11016 Not Found: /assets/theme/js/script.js
+WARNING 2023-11-14 13:40:52,418 log 4560 13144 Not Found: /assets/bootstrap/js/bootstrap.bundle.min.js
+WARNING 2023-11-14 13:40:52,418 basehttp 4560 3536 "GET /assets/dropdown/js/navbar-dropdown.js HTTP/1.1" 404 2795
+WARNING 2023-11-14 13:40:52,419 log 4560 11312 Not Found: /assets/ytplayer/index.js
+WARNING 2023-11-14 13:40:52,420 log 4560 12092 Not Found: /assets/smoothscroll/smooth-scroll.js
+WARNING 2023-11-14 13:40:52,421 basehttp 4560 11016 "GET /assets/theme/js/script.js HTTP/1.1" 404 2759
+WARNING 2023-11-14 13:40:52,421 basehttp 4560 13144 "GET /assets/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2813
+WARNING 2023-11-14 13:40:52,422 basehttp 4560 11312 "GET /assets/ytplayer/index.js HTTP/1.1" 404 2756
+WARNING 2023-11-14 13:40:52,422 basehttp 4560 12092 "GET /assets/smoothscroll/smooth-scroll.js HTTP/1.1" 404 2792
+INFO 2023-11-14 13:43:03,208 autoreload 9416 11152 Watching for file changes with StatReloader
+INFO 2023-11-14 13:43:04,503 basehttp 9416 7328 "GET / HTTP/1.1" 200 10273
+INFO 2023-11-14 13:43:22,071 autoreload 3168 5220 Watching for file changes with StatReloader
+INFO 2023-11-14 13:43:23,260 basehttp 3168 9668 "GET / HTTP/1.1" 200 10249
+INFO 2023-11-14 13:43:24,327 basehttp 3168 9668 "GET / HTTP/1.1" 200 10249
+INFO 2023-11-14 13:43:25,135 basehttp 3168 9668 "GET / HTTP/1.1" 200 10249
+INFO 2023-11-14 13:43:25,678 basehttp 3168 9668 "GET / HTTP/1.1" 200 10249
+INFO 2023-11-14 13:43:26,119 basehttp 3168 9668 "GET / HTTP/1.1" 200 10249
+INFO 2023-11-14 13:43:33,375 autoreload 9076 6764 Watching for file changes with StatReloader
+INFO 2023-11-14 13:43:35,354 basehttp 9076 4020 "GET / HTTP/1.1" 200 9373
+INFO 2023-11-14 13:43:43,371 basehttp 9076 4020 "GET /post/2/ HTTP/1.1" 200 11398
+INFO 2023-11-14 13:43:47,335 basehttp 9076 4020 "GET /post/2/ HTTP/1.1" 200 11398
+INFO 2023-11-14 13:43:59,351 basehttp 9076 4020 "GET /post/1/ HTTP/1.1" 200 10913
+INFO 2023-11-14 13:43:59,368 basehttp 9076 4020 "GET /media/post/images/images7.jpeg HTTP/1.1" 304 0
+INFO 2023-11-14 13:43:59,372 basehttp 9076 4020 "GET /media/post/images/images10.jpeg HTTP/1.1" 304 0
+INFO 2023-11-14 13:44:11,540 basehttp 9076 4020 "POST /post/1/ HTTP/1.1" 200 11199
+INFO 2023-11-14 13:44:26,052 basehttp 9076 4020 "GET / HTTP/1.1" 200 9373
+INFO 2023-11-14 13:44:28,249 basehttp 9076 4020 "GET /post/1/ HTTP/1.1" 200 11199
+INFO 2023-11-14 13:45:17,458 autoreload 4200 3996 Watching for file changes with StatReloader
+INFO 2023-11-14 13:45:19,054 basehttp 4200 14000 "GET /post/1/ HTTP/1.1" 200 11167
+INFO 2023-11-14 13:45:20,187 basehttp 4200 14000 "GET / HTTP/1.1" 200 9341
+INFO 2023-11-14 13:45:22,104 basehttp 4200 14000 "GET /post/2/ HTTP/1.1" 200 11366
+INFO 2023-11-14 13:45:26,157 basehttp 4200 14000 "GET / HTTP/1.1" 200 9341
+INFO 2023-11-14 13:45:28,216 basehttp 4200 14000 "GET /post/1/ HTTP/1.1" 200 11167
+INFO 2023-11-14 13:46:00,020 basehttp 4200 14000 "GET /post/1/ HTTP/1.1" 200 11167
+INFO 2023-11-14 13:46:03,147 basehttp 4200 14000 "GET / HTTP/1.1" 200 9341
+INFO 2023-11-14 13:46:04,845 basehttp 4200 14000 "GET /post/2/ HTTP/1.1" 200 10502
+INFO 2023-11-14 13:46:09,563 basehttp 4200 14000 "GET /post/2/ HTTP/1.1" 200 10502
+INFO 2023-11-14 13:50:56,179 basehttp 4200 14000 "GET /post/2/ HTTP/1.1" 200 10502
+INFO 2023-11-14 13:51:54,957 autoreload 14232 13684 Watching for file changes with StatReloader
+INFO 2023-11-14 13:51:58,527 basehttp 14232 10128 "GET /post/2/ HTTP/1.1" 200 10502
+INFO 2023-11-14 13:52:13,943 basehttp 14232 10128 "POST /post/2/ HTTP/1.1" 302 0
+INFO 2023-11-14 13:52:13,952 basehttp 14232 10128 "GET /post/2/ HTTP/1.1" 200 10817
+INFO 2023-11-14 13:52:53,163 autoreload 11260 6704 Watching for file changes with StatReloader
+INFO 2023-11-14 13:52:54,890 basehttp 11260 13548 "GET /post/2/ HTTP/1.1" 200 10925
+INFO 2023-11-14 13:53:12,242 autoreload 14036 13540 Watching for file changes with StatReloader
+INFO 2023-11-14 13:53:13,553 basehttp 14036 13328 "GET /post/2/ HTTP/1.1" 200 10925
+INFO 2023-11-14 13:53:26,553 autoreload 9004 6648 Watching for file changes with StatReloader
+INFO 2023-11-14 13:53:27,073 basehttp 9004 9596 "GET /post/2/ HTTP/1.1" 200 10899
+INFO 2023-11-14 13:53:39,910 basehttp 9004 9596 "GET / HTTP/1.1" 200 9341
